@@ -33,7 +33,7 @@
   font-family: 'Material Symbols Rounded';
   font-style: normal;
   font-weight: 100 700;
-  src: url('/icons_outline.woff2') format('woff2');
+  src: url('icons_outline.woff2') format('woff2');
 }
 
 .material-symbols-rounded {
@@ -57,7 +57,7 @@
 }
 @font-face {
   font-family: 'Poppins Regular';
-  src: url('/Poppins-Regular.ttf')
+  src: url('Poppins-Regular.ttf')
 }
 /* css reset */
 h1,
